@@ -1,5 +1,5 @@
 # Hi, welcome to my profile!
- I'm a student who wants to learn some coding. I usually code in JavaScript, but I sometimes do another languages
+ I'm a student who wants to learn some coding. I code in JavaScript or C++
  ## Current projects
  Versailles Engine (VE)
  ## Future projects
